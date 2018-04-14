@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo apt-get install python-pip
+sudo apt-get install -y python-pip
 
 # upgrade pip
 pip install -U pip
