@@ -6,7 +6,7 @@ Simple script to install and setup Jupyter on NVIDIA Jetson.
 
 ```
 git clone https://github.com/chitoku/installJupyterJetson.git
-cd install installJupyterJetson
+cd installJupyterJetson
 bash ./installJupyter.sh
 bash ./setupJupyter.sh
 ```
